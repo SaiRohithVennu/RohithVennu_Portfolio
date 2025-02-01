@@ -32,11 +32,3 @@
     "vite": "^5.4.2"
   }
 }
-{
-  "scripts": {
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
-  "homepage": "https://<SaiRohithVennu>.github.io/RohithVennu_Portfolio/"
-}

@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/RohithVennu_Portfolio/',  // Corrected base path for GitHub Pages
 });
